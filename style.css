@@ -43,3 +43,13 @@
     border:none;
     box-shadow: 5px 10px 10px lightgray; 
 }
+#shoes,#bag{
+    margin-bottom: 30px;
+}
+#subscribe{
+    height: 300px;
+    margin-bottom: 10px;
+}
+footer{
+    text-align: center;
+}
